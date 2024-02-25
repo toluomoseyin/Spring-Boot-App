@@ -45,7 +45,7 @@ Steps:
         Stage 8: Use Argo CD to promote the application to a production environment
 
     5. Set up Argo CD:
-        Install Argo CD on the Kubernetes cluster.
+        Install Argo CD on the Kubernetes cluster
         Set up a Git repository for Argo CD to track the changes in the Helm charts and Kubernetes manifests.
         Create a Helm chart for the Java application that includes the Kubernetes manifests and Helm values.
         Add the Helm chart to the Git repository that Argo CD is tracking.
