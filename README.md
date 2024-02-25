@@ -31,7 +31,7 @@ Steps:
         Stage 4: Run SonarQube analysis to check the code quality.
         Stage 5: Package the application into a JAR file.
         Stage 6: Deploy the application to a test environment using Helm.
-        Stage 7: Run user acceptance tests on the deployed application.
+        Stage 7: Run user acceptance tests on the deployed application
         Stage 8: Promote the application to a production environment using Argo CD
 
     4. Configure Jenkins pipeline stages:
