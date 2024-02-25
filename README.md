@@ -41,7 +41,7 @@ Steps:
         Stage 4: Use the SonarQube plugin to analyze the code quality of the Java application.
         Stage 5: Use the Maven Integration plugin to package the application into a JAR file.
         Stage 6: Use the Kubernetes Continuous Deploy plugin to deploy the application to a test environment using Helm.
-        Stage 7: Use a testing framework like Selenium to run user acceptance tests on the deployed application.
+        Stage 7: Use a testing framework like Selenium to run user acceptance tests on the deployed application
         Stage 8: Use Argo CD to promote the application to a production environment
 
     5. Set up Argo CD:
