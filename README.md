@@ -37,7 +37,7 @@ Steps:
     4. Configure Jenkins pipeline stages:
         Stage 1: Use the Git plugin to check out the source code from the Git repository.
         Stage 2: Use the Maven Integration plugin to build the Java application.
-        Stage 3: Use the JUnit and Mockito plugins to run unit tests.
+        Stage 3: Use the JUnit and Mockito plugins to run unit tests
         Stage 4: Use the SonarQube plugin to analyze the code quality of the Java application.
         Stage 5: Use the Maven Integration plugin to package the application into a JAR file.
         Stage 6: Use the Kubernetes Continuous Deploy plugin to deploy the application to a test environment using Helm.
