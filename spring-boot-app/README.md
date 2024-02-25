@@ -7,7 +7,7 @@ This is a MVC architecture based application where controller returns a page wit
 
 ## Execute the application locally and access it using your browser
 
-Checkout the repo and move to the directory
+Checkout the repo and move to the directory-
 
 ```
 git clone https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero/java-maven-sonar-argocd-helm-k8s/sprint-boot-app
